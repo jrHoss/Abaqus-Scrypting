@@ -1,0 +1,14 @@
+Abaqus JOB Job-1
+Abaqus Student Edition 6.14-2
+Begin Analysis Input File Processor
+06.09.2022 19:42:41
+Run pre.exe
+06.09.2022 19:42:43
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+06.09.2022 19:42:43
+Run standard.exe
+06.09.2022 19:42:44
+End Abaqus/Standard Analysis
+Abaqus JOB Job-1 COMPLETED
+Socket error: [Errno 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte
